@@ -74,7 +74,7 @@ def checkcode(codes_array):
     return check_response
 
 
-codes_txt = st.text_area("sonyliv codes")
+codes_txt = st.text_area("zee5 codes")
 
 
 if st.button("submit"):
